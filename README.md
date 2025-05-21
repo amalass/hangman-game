@@ -1,1 +1,1 @@
-Demo: https://amsmaug.github.io/hangman-game/
+Demo: https://amalass.github.io/hangman-game/
